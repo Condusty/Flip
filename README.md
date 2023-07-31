@@ -4,4 +4,4 @@ The idea of the game is to solve Jump and Run puzzles due to flipping the Charac
 
 Assets used are from the Unity Asset Store.
 
-Code is located in Assets/_Scripts
+Code is located in Assets/_Scripts.
